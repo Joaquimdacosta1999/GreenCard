@@ -51,7 +51,23 @@ An open-source educational platform to help South Africans master the K53 learne
         * [Sign groupings](index.html)
         * [Temporary signs](./index.html)
         * [Symbols](./index.html)
-        
+
+* [5. REGULATORY SIGNS](./index.html)
+    * [OVERVIEW](./index.html)
+        * [cotrol signs: to control traffic how](./index.html)
+        * [Command signs: to give instructions](./index.html)
+        * [Prohibiton signs: to prohibit certain sections to classes of vehicles](./index.html)
+        * [Reservation signs: to reserve lanes, roadways (R) or parking areas (P)](./index.html)
+        * [Limit prohibition signs: to set specific limits permitted on the road, where exceeding such limit is prohibited](./index.html)
+        * [Comprehensive signs: to indicate comprehensive rules](./index.html)
+        * [De-restriction signs: to cancel restrictions](./index.html)
+        * [Selective restiction regulatory signs: to apply the rules selectively](./index.html)
+        * [Traffic signals: to control traffic flow](./index.html)
+    * [REGULATORY SIGNS: QUESTIONS AND ANSWERS](./index.html)
+
+    
+
+
 
 
 
