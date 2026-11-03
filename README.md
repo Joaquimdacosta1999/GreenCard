@@ -65,7 +65,16 @@ An open-source educational platform to help South Africans master the K53 learne
         * [Traffic signals: to control traffic flow](./index.html)
     * [REGULATORY SIGNS: QUESTIONS AND ANSWERS](./index.html)
 
-    
+* [6. WARNING SIGNS](./index.html)
+    * [OVERVIEW](./index.html)
+        * [Road situations ahead](./index.html)
+        * [Traffic control ahead](./index.html)
+        * [Changes in vehicle movement ahead](./index.html)
+        * [Road Layout changes ahead](./index.html)
+        * [Moving hazards ahead](./index.html)
+        * [Hazard marker plates](index.html)
+        * [Examples of warning sign combinations](./index.html)
+    * [WARNING SIGNS: QUESTIONS AND ANSWERS](./index.html)
 
 
 
