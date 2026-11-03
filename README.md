@@ -6,53 +6,52 @@ An open-source educational web platform built to help learner drivers across Sou
 
 ## 📖 K53 Book Content Index & Website Directory
 
-# 🇿🇦 K53 SA Open Source Learning Hub
-
 An open-source educational platform to help South Africans master the K53 learner's licence test. 
 
 ---
 
 ## Table of Contents
 
-* [1. Road Signs, Signals and Markings](./pages/road-signs.html)
-    * [Regulatory Signs](./pages/road-signs.html#regulatory)
-        * [Control Signs (Stop, Yield)](./pages/road-signs.html#control)
-        * [Command Signs (Mandatory direction/action)](./pages/road-signs.html#command)
-        * [Prohibition Signs (No entry, No turns)](./pages/road-signs.html#prohibition)
-        * [Reservation Signs](./pages/road-signs.html#reservation)
-    * [Warning Signs](./pages/road-signs.html#warning)
-        * [Permanent Hazards (Curves, Steep gradients)](./pages/road-signs.html#permanent-hazards)
-        * [Temporary Roadwork Signs](./pages/road-signs.html#temporary-signs)
-    * [Guidance and Information Signs](./pages/road-signs.html#guidance)
-        * [Freeway Route Markers](./pages/road-signs.html#freeway-markers)
-        * [Tourist & Directional Signs](./pages/road-signs.html#tourist-signs)
-    * [Road Surface Markings](./pages/road-signs.html#markings)
-        * [Painted Lines (Solid vs. Broken)](./pages/road-signs.html#painted-lines)
-        * [Demand and Stop Lines](./pages/road-signs.html#stop-lines)
+* [1. THE LEARNER'S LICENCE TEST OVERVIEWS](./pages/road-signs.html)
+    * [OVERVIEW](./pages/road-signs.html#regulatory)
+        * [What is a Learner's licence](./pages/road-signs.html#control)
+        * [To pass learner's license test you will need to:](./pages/road-signs.html#command)
+        * [What are the minimum age requirements for obtaining a learner's licence?](./pages/road-signs.html#prohibition)
+        * [What can disqualify me from obtaining a learner's Licence?](./pages/road-signs.html#reservation)
+        * [What will I need when I apply?](index.html)
+        * [What will the learner's licence authorize me to do?](./index.html)
+        * [How long is a learner's license valid for?](index.html)
+        * [How will I tested?](./index.html)
+        * [What is the pass mark in the official test?](./index.html)
+        * [Be sure you understand the test question](./index.html)
 
-* [2. Rules of the Road](./pages/rules-road.html)
-    * [Speed Limits & Following Distances](./pages/rules-road.html#speed-limits)
-        * [Urban Areas](./pages/rules-road.html#urban)
-        * [Rural Roads & Freeways](./pages/rules-road.html#freeways)
-        * [The Three-Second Rule](./pages/rules-road.html#following-distance)
-    * [Right of Way & Intersections](./pages/rules-road.html#right-of-way)
-        * [Four-Way Stops](./pages/rules-road.html#four-way-stops)
-        * [Traffic Circles and Roundabouts](./pages/rules-road.html#circles)
-    * [Overtaking & Passing](./pages/rules-road.html#overtaking)
-    * [Stopping, Parking & Towing](./pages/rules-road.html#parking)
-    * [General Duties & Legal Limits (Alcohol, Seatbelts)](./pages/rules-road.html#general-duties)
+* [2. THE CONTROLS OF THE VEHICLE](index.html)
+    * [OVERVIEW](./index.html)
+        * [Motor vehicle controls](./index.html)
+        * [Combining the use of vehicle controls (Automatic vehicles do not have a clutch)](index.html)
+        * [All vehicles and motorcycles](./index.html)
+        * [Combining use of vehicle controls](./index.html)
 
-* [3. Vehicle Controls (LMV & HMV)](./pages/vehicle-controls.html)
-    * [Controls Breakdown](./pages/vehicle-controls.html#controls-breakdown)
-        * [Steering and Foot Controls (Clutch, Brake, Accelerator)](./pages/vehicle-controls.html#pedals)
-        * [Gear Lever and Handbrake](./pages/vehicle-controls.html#gears)
-    * [Pre-Trip Inspections](./pages/vehicle-controls.html#pre-trip)
+* [DEFENSIVE DRIVING THE K53 WAY](./index.html)
+    * [OVERVIEW](./index.html)
+        * [Basic elements of the K53 defensive driving standard](./index.html)
+        * [Keep a safe following distance](./index.html)
+        * [Use the mirrors correctly](./index.html)
+        * [Check in the blind spots](./index.html)
+        * [Signal your intention](./index.html)
+        * [Use the clutch correctly](./index.html)
+        * [Use the steering correctly](./index.html)
+        * [Control your speed properly](./index.html)
+        * [Use the breakes correctly](./index.html)
 
-* [4. Interactive Mock Test Engine](./pages/mock-test.html)
-    * [Practice Quiz Sessions](./pages/mock-test.html#quiz)
-    * [Official NaTIS Government References & Citations](./pages/mock-test.html#citations)
 
----
+
+
+
+
+
+
+
 
 ## 🏛️ Official Government References
 Every topic mapped above complies with South African traffic standards via the **[NaTIS Official Portal](https://www.natis.gov.za/)**.
