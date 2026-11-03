@@ -6,34 +6,53 @@ An open-source educational web platform built to help learner drivers across Sou
 
 ## 📖 K53 Book Content Index & Website Directory
 
-As you transcribe and structure your physical K53 manual, use this index to map your repository files and website links:
+# 🇿🇦 K53 SA Open Source Learning Hub
 
-### Module 1: Road Traffic Signs, Signals and Markings
-*Click links to view detailed web pages.*
-- [ ] **[Regulatory Signs](./pages/road-signs.html#regulatory)**: Control, command, prohibition, and reservation signs.
-- [ ] **[Warning Signs](./pages/road-signs.html#warning)**: Permanent hazards, road layouts, and intersection warnings.
-- [ ] **[Guidance & Information Signs](./pages/road-signs.html#guidance)**: Route markers, tourist attractions, and freeway layouts.
-- [ ] **[Road Surface Markings](./pages/road-signs.html#markings)**: Painted lines, yield lines, and exclusive lanes.
-
-### Module 2: Rules of the Road
-- [ ] **[General Rules & Speed Limits](./pages/rules-road.html#speed)**: Urban, rural, and freeway speed restrictions.
-- [ ] **[Right of Way & Intersections](./pages/rules-road.html#intersection)**: Four-way stops, traffic circles, and yielding protocols.
-- [ ] **[Overtaking & Following Distances](./pages/rules-road.html#overtaking)**: Safe distances, three-second rules, and passing restrictions.
-- [ ] **[Stopping, Parking & Towing](./pages/rules-road.html#parking)**: Prohibited parking zones and legal towing setups.
-- [ ] **[Seatbelts, Alcohol & General Duties](./pages/rules-road.html#general)**: Legal limits, passenger safety, and accident protocols.
-
-### Module 3: Vehicle Controls (LMV, HMV & Motorcycles)
-- [ ] **[Controls Breakdown](./pages/vehicle-controls.html#controls)**: Steering, clutch, foot brake, accelerator, and gear levers.
-- [ ] **[Pre-trip Inspections](./pages/vehicle-controls.html#pretrip)**: Exterior and interior checks before movement.
-
-### Module 4: Interactive Practice Quizzes
-- [ ] **[Mock Test Engine](./pages/mock-test.html)**: Timed multi-choice practice tests with official government reference citations.
+An open-source educational platform to help South Africans master the K53 learner's licence test. 
 
 ---
 
-## 🏛️ Official Government Reference Architecture
-To maintain absolute legal accuracy, every quiz question and study module on this platform ties back to official regulatory frameworks published by the Department of Transport via **[NaTIS (National Traffic Information System)](https://www.natis.gov.za/)**.
+## Table of Contents
 
-## 💻 Tech Stack
-- **HTML5 & CSS3:** Semantic structures, CSS Grid/Flexbox, fully optimized for mobile study.
-- **JavaScript (Vanilla):** Dynamic JSON data rendering and custom logic for the quiz feedback engine.
+* [1. Road Signs, Signals and Markings](./pages/road-signs.html)
+    * [Regulatory Signs](./pages/road-signs.html#regulatory)
+        * [Control Signs (Stop, Yield)](./pages/road-signs.html#control)
+        * [Command Signs (Mandatory direction/action)](./pages/road-signs.html#command)
+        * [Prohibition Signs (No entry, No turns)](./pages/road-signs.html#prohibition)
+        * [Reservation Signs](./pages/road-signs.html#reservation)
+    * [Warning Signs](./pages/road-signs.html#warning)
+        * [Permanent Hazards (Curves, Steep gradients)](./pages/road-signs.html#permanent-hazards)
+        * [Temporary Roadwork Signs](./pages/road-signs.html#temporary-signs)
+    * [Guidance and Information Signs](./pages/road-signs.html#guidance)
+        * [Freeway Route Markers](./pages/road-signs.html#freeway-markers)
+        * [Tourist & Directional Signs](./pages/road-signs.html#tourist-signs)
+    * [Road Surface Markings](./pages/road-signs.html#markings)
+        * [Painted Lines (Solid vs. Broken)](./pages/road-signs.html#painted-lines)
+        * [Demand and Stop Lines](./pages/road-signs.html#stop-lines)
+
+* [2. Rules of the Road](./pages/rules-road.html)
+    * [Speed Limits & Following Distances](./pages/rules-road.html#speed-limits)
+        * [Urban Areas](./pages/rules-road.html#urban)
+        * [Rural Roads & Freeways](./pages/rules-road.html#freeways)
+        * [The Three-Second Rule](./pages/rules-road.html#following-distance)
+    * [Right of Way & Intersections](./pages/rules-road.html#right-of-way)
+        * [Four-Way Stops](./pages/rules-road.html#four-way-stops)
+        * [Traffic Circles and Roundabouts](./pages/rules-road.html#circles)
+    * [Overtaking & Passing](./pages/rules-road.html#overtaking)
+    * [Stopping, Parking & Towing](./pages/rules-road.html#parking)
+    * [General Duties & Legal Limits (Alcohol, Seatbelts)](./pages/rules-road.html#general-duties)
+
+* [3. Vehicle Controls (LMV & HMV)](./pages/vehicle-controls.html)
+    * [Controls Breakdown](./pages/vehicle-controls.html#controls-breakdown)
+        * [Steering and Foot Controls (Clutch, Brake, Accelerator)](./pages/vehicle-controls.html#pedals)
+        * [Gear Lever and Handbrake](./pages/vehicle-controls.html#gears)
+    * [Pre-Trip Inspections](./pages/vehicle-controls.html#pre-trip)
+
+* [4. Interactive Mock Test Engine](./pages/mock-test.html)
+    * [Practice Quiz Sessions](./pages/mock-test.html#quiz)
+    * [Official NaTIS Government References & Citations](./pages/mock-test.html#citations)
+
+---
+
+## 🏛️ Official Government References
+Every topic mapped above complies with South African traffic standards via the **[NaTIS Official Portal](https://www.natis.gov.za/)**.
