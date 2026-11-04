@@ -76,6 +76,11 @@ An open-source educational platform to help South Africans master the K53 learne
         * [Examples of warning sign combinations](./index.html)
     * [WARNING SIGNS: QUESTIONS AND ANSWERS](./index.html)
 
+* [7. INFORMATION SIGNS](./index.html)
+    * [OVERVIEW](./index.html)
+        * [Signs](index.html)
+    * [INFORMATION SIGNS: Questions and answers](./index.html)
+
 
 
 
