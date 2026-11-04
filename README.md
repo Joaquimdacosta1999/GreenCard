@@ -81,6 +81,18 @@ An open-source educational platform to help South Africans master the K53 learne
         * [Signs](index.html)
     * [INFORMATION SIGNS: Questions and answers](./index.html)
 
+* [8. GUIDANCE SIGNS](index.html)
+    * [OVERVIEW](index.html)
+        * [GUidance sign colour combinations](./index.html)
+        * [Location name symbols](./index.html)
+        * [Location name examples](./index.html)
+        * [Direction sign symbols](./index.html)
+        * [Local direction sign symbols](./index.html)
+        * [Tourism sign symbols](./index.html)
+        * [Direction sign examples](./index.html)
+        * [Diagrammatic signs](./index.html)
+    * [GUIDANCE SIGNS: Questions and answers](./index.html)
+
 
 
 
