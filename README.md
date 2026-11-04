@@ -93,6 +93,12 @@ An open-source educational platform to help South Africans master the K53 learne
         * [Diagrammatic signs](./index.html)
     * [GUIDANCE SIGNS: Questions and answers](./index.html)
 
+* [9. ROAD SURFACE MARKINGS](index.html)
+    * [OVERVIEW](./index.html)
+        * [Regulatory markings](./index.html)
+        * [Warming and guidance markings](./index.html)
+    * [ROAD SURFACE MARKINGS: Questions and answers](index.html)
+
 
 
 
