@@ -1,13 +1,13 @@
-# 🇿🇦 Open-Source K53 Learner's Licence Master Repository
+# 🇿🇦 K53 SA Open Source Learning Hub
 
-An open-source educational web platform built to help learner drivers across South Africa master their theory test, prepare for tests at centres like **Green Point DLTC**, and study road regulations for free. Built alongside **The Odin Project** (HTML, CSS, and JavaScript).
+An independent, community-driven platform built to make studying for the South African K53 Learner’s Licence accessible, accurate, and completely free. 
 
 ---
 
-## 📖 K53 Book Content Index & Website Directory
+## 🎯 Our Mission
+The goal of this project is simple: to create a comprehensive, crowd-sourced study hub where anyone preparing for their learner's licence test can learn, practice, and test their knowledge. Because traffic regulations and test standards can shift, this platform relies on community participation—allowing contributors from all over South Africa to share updates, refine study materials, and help others succeed.
 
-An open-source educational platform to help South Africans master the K53 learner's licence test. 
-
+Want to help improve this platform or contribute content? Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) guide to get started!
 ---
 
 ## Table of Contents
