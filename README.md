@@ -7,9 +7,8 @@ An independent, community-driven platform built to make studying for the South A
 ## 🎯 Our Mission
 The goal of this project is simple: to create a comprehensive, crowd-sourced study hub where anyone preparing for their learner's licence test can learn, practice, and test their knowledge. Because traffic regulations and test standards can shift, this platform relies on community participation—allowing contributors from all over South Africa to share updates, refine study materials, and help others succeed.
 
----
-
 Want to help improve this platform or contribute content? Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) guide to get started!
+
 ---
 
 ## Table of Contents
