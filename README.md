@@ -1,4 +1,5 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-blue)(https://github.com/Joaquimdacosta1999/k53-sa-open-source/blob/main/LICENSE) ![PRs Welcome Badge](https://img.shields.io/badge/PRs-welcome-brightgreen)(https://github.com/Joaquimdacosta1999/k53-sa-open-source/blob/main/CONTRIBUTING.md) !
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://github.com/Joaquimdacosta1999/k53-sa-open-source/blob/main/LICENSE) [![PRs Welcome Badge](https://img.shields.io/badge/PRs-welcome-brightgreen
+)](https://github.com/Joaquimdacosta1999/k53-sa-open-source/blob/main/CONTRIBUTING.md)
 
 # 🇿🇦 K53 SA Open Source Learning Hub
 
