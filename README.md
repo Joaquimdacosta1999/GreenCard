@@ -1,13 +1,14 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://github.com/Joaquimdacosta1999/k53-sa-open-source/blob/main/LICENSE) [![PRs Welcome Badge](https://img.shields.io/badge/PRs-welcome-brightgreen
-)](https://github.com/Joaquimdacosta1999/k53-sa-open-source/blob/main/CONTRIBUTING.md) [![Project Status](https://img.shields.io/badge/project_status-active-green)] [![]]
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-# 🇿🇦 GreenCard Open Source Learning Hub
+# 🇿🇦 GreenCard — Free K53 Learner’s Licence Hub
 
-An independent, community-driven platform built to make studying for the South African K53 Learner’s Licence accessible, accurate, and completely free. 
+An independent, community-driven platform built to make studying for the South African K53 Learner’s Licence accessible, accurate, and completely free.
 
 ---
 
 ## 🎯 Our Mission
+
 **The goal of this project is simple:** to create a comprehensive, crowd-sourced study hub where anyone preparing for their learner's licence test can learn, practice, and test their knowledge. Because traffic regulations and test standards can shift, this platform relies on community participation—allowing contributors from all over South Africa to share updates, refine study materials, and help others succeed.
 
 Every single answer provided in this hub must be strictly backed by official documentation from **The National Road Traffic Act (NRTA)** or **The NaTIS Official Portal**, ensuring total accuracy and trust.
@@ -19,39 +20,43 @@ Want to help improve this platform or contribute content? Check out our [CONTRIB
 ## 🚫 1. Solving the Root Cause (Why We Exist)
 
 Most existing K53 apps and websites are built for aggressive ad-monetisation, not for actual learning retention. They suffer from foundational flaws that we actively reject:
-*   **No Paywalls, Ever:** Commercial apps bait users into downloading them, only to lock the crucial 68-question mock exam behind a subscription or an upfront        paywall. This hub will remain 100% free forever.
-*   **Zero Invasive Ads:** You cannot study effectively when video ads interrupt you every three questions. This platform enforces a clean, distraction-free studying interface.
-*   **The Trust Deficit (Fixed by NaTIS):** Other platforms use unverified or outdated question paraphrases. Every single question here is tied to an explicit legal clause or verified portal link.
-*   **Rapid Law Updates:** Other platforms use unverified or outdated question paraphrases. Every single question here is tied to an explicit legal clause or verified portal link.
-*   Rapid Law Updates:** When traffic laws or speed regulations change in South Africa, commercial software updates take months. Our open-source repository allows changes to happen instantly via community Pull Requests.
+
+* **No Paywalls, Ever:** Commercial apps bait users into downloading them, only to lock the crucial 68-question mock exam behind a subscription or an upfront paywall. This hub will remain 100% free forever.
+* **Zero Invasive Ads:** You cannot study effectively when video ads interrupt you every three questions. This platform enforces a clean, distraction-free studying interface.
+* **The Trust Deficit (Fixed by NaTIS):** Other platforms use unverified or outdated question paraphrases. Every single question here is tied to an explicit legal clause or verified portal link.
+* **Rapid Law Updates:** When traffic laws or speed regulations change in South Africa, commercial software updates take months. Our open-source repository allows changes to happen instantly via community Pull Requests.
 
 ---
 
 ## 🛠️ 2. Tech Stack & Software Architecture
+
 We keep our architecture incredibly lightweight and modern so anyone with fundamental web development skills can contribute without friction:
-*   **Frontend UI:** Vanilla HTML5, modern CSS3 (Flexbox/Grid layout frameworks), and native JavaScript (ES6+).
-*   **Database & API Layer:** Strictly file-based using a human-readable `/data/questions.json` model. This removes the need for complex local database management (like SQL/NoSQL engines) to get started.
-*   **CI/CD Pipeline:** Automated continuous deployment via **GitHub Pages** or Vercel. Merging code into the `main` branch updates the live application instantly.
+
+* **Frontend UI:** Vanilla HTML5, modern CSS3 (Flexbox/Grid layout frameworks), and native JavaScript (ES6+).
+* **Database & API Layer:** Strictly file-based using a human-readable `/data/questions.json` model. This removes the need for complex local database management (like SQL/NoSQL engines) to get started.
+* **CI/CD Pipeline:** Automated continuous deployment via **GitHub Pages** or Vercel. Merging code into the `main` branch updates the live application instantly.
 
 ---
 
 ## 🚀 3. Quick Start (Run the Project Locally)
+
 Want to run the platform locally on your computer? You can get a development server running in under two minutes:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Joaquimdacosta1999/k53-sa-open-source.git
+   git clone https://github.com/Joaquimdacosta1999/GreenCard.git
    ```
 2. **Navigate into the directory:**
    ```bash
-   cd k53-sa-open-source
+   cd GreenCard
    ```
-3. **Launch the app:**
+3. **Launch the app:**  
    Open the `index.html` file directly in any modern web browser, or use the *Live Server* extension inside VS Code.
 
 ---
 
 ## 📊 4. Strict NaTIS Verification Schema
+
 To enforce absolute accuracy, every practice question stored inside our `/data/questions.json` file must strictly adhere to the following verified structure:
 
 ```json
@@ -71,27 +76,34 @@ To enforce absolute accuracy, every practice question stored inside our `/data/q
   }
 ]
 ```
+
 ---
 
 ## 🎯 5. Core Features Roadmap
-*   [ ] **The 68-Question Exam Simulator:** A timed testing engine matching the exact question distribution weight used by official traffic departments.
-*   [ ] **Section-Specific Quizzes:** Targeted practice tools focused purely on Road Signs, Rules of the Road, or Vehicle Controls.
-*   [ ] **NaTIS Verification Badges:** Clickable UI shields below each question displaying its legal source and rationale.
-*   [ ] **Local Progress Persistence:** Utilizing browser `localStorage` to save user test history and highlight weak areas securely on their device without requiring accounts.
-*   [ ] **Dark Mode Support:** A built-in accessibility theme designed for late-night study sessions.
+
+* [ ] **The 68-Question Exam Simulator:** A timed testing engine matching the exact question distribution weight used by official traffic departments.
+* [ ] **Section-Specific Quizzes:** Targeted practice tools focused purely on Road Signs, Rules of the Road, or Vehicle Controls.
+* [ ] **NaTIS Verification Badges:** Clickable UI shields below each question displaying its legal source and rationale.
+* [ ] **Local Progress Persistence:** Utilizing browser `localStorage` to save user test history and highlight weak areas securely on their device without requiring accounts.
+* [ ] **Dark Mode Support:** A built-in accessibility theme designed for late-night study sessions.
 
 ---
 
 ## 👥 6. How to Contribute (Coders & Non-Coders)
+
 We highly value all forms of contribution. You do not need to be an expert software engineer to make an impact:
-*   **For Coders:** Pick up tasks labeled `good-first-issue` on our GitHub Issues page. Help optimize quiz logic, polish CSS responsiveness, or refactor state persistence.
-*   **For Content Contributors (Non-Coders):** Help us map out and transcribe official questions, find correct high-quality images of traffic signs, or proofread current entries against updated NaTIS regulations.
+
+* **For Coders:** Pick up tasks labeled `good first issue` on our GitHub Issues page. Help optimize quiz logic, polish CSS responsiveness, or refactor state persistence.
+* **For Content Contributors (Non-Coders):** Help us map out and transcribe official questions, find correct high-quality images of traffic signs, or proofread current entries against updated NaTIS regulations.
+
+See the full [CONTRIBUTING.md](./CONTRIBUTING.md) for labels, workflow, and content rules.
 
 ---
 
 ## 📂 7. Project Directory Structure
+
 ```text
-k53-learn-to-pass/
+GreenCard/
 ├── assets/             # Images, SVGs of Road Signs and Vehicle Controls
 ├── data/               # Human-readable JSON question banks
 │   └── questions.json  # NaTIS verified question array
@@ -99,20 +111,24 @@ k53-learn-to-pass/
 │   ├── test-overview.html
 │   ├── vehicle-controls.html
 │   └── rules-of-the-road.html
-├─ quiz/               # Interactive test components and modules
+├── quiz/               # Interactive test components and modules
 └── index.html          # Main application landing page
 ```
+
 ---
 
 ## 🔒 8. Project Security & Anti-Spam Policy
+
 Because this is an open public repository for educational content, we maintain high quality-control standards:
-*   No external third-party tracking cookies or pixel frameworks are permitted in pull requests.
-*   All automated script injections or data modifications will be flagged and rejected by code maintainers.
-*   Pull requests changing the `questions.json` dataset will only be approved if the changes include a valid, verifiable link to official documentation.
+
+* No external third-party tracking cookies or pixel frameworks are permitted in pull requests.
+* All automated script injections or data modifications will be flagged and rejected by code maintainers.
+* Pull requests changing the `questions.json` dataset will only be approved if the changes include a valid, verifiable link to official documentation.
 
 ---
 
 ## ⚖️ 9. Open Source Licensing
+
 This project is completely open-source and released under the **MIT License**. You are completely free to fork it, modify it, and run it independently without worrying about legal restrictions or commercial pushback.
 
 ---
